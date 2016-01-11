@@ -32,15 +32,17 @@ Nested list, indent with two spaces
   1. en en
   2. en to
   
-Backtics ` to make monospaced whatever else the formatting were
+Back-tics  to make monospaced whatever else the formatting were
 Here is the `monospaced` text and `**this**` text-
 
-with ` ` ` we make a block
+with  we make a block
 ```
 bla bla
-bla bla
+bla 'bla'
 og bla bla
 ```
+
+ 
 
 and finally links:
 [Visit GitHub!](https://www.github.com)
