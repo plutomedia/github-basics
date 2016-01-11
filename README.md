@@ -1,6 +1,6 @@
 # github-basics
 Remote repo to help me test out my Github skills
-
+|[My picture](espenpresent2016.jpg)
 Testing <blockquotes>blockquotes</blockquotes>
 *italic* and **bold**
 
