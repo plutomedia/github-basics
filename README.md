@@ -10,15 +10,12 @@ Testing <blockquotes>blockquotes</blockquotes>
 ordered list
 1. en
 2. to
-3. tre
 
 unordered list
 * en
 * to
-* tre
 - fire
 - fem
-- seks
 
 Nested list, indent with two spaces
 * en
@@ -38,10 +35,9 @@ Here is the `monospaced` text and `**this**` text-
 with  we make a block
 ```
 bla bla
-bla 'bla'
+bla bla
 og bla bla
 ```
-
  
 and finally links:
 [Visit GitHub!](https://www.github.com)
